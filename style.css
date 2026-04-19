@@ -140,3 +140,11 @@ header button:hover {
 
     color: #ffffff;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+
+    background-color: #142155;
+    padding: 20px;
+}
